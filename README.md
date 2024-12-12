@@ -1,8 +1,6 @@
 # 🚀 DevOps Sentinel: Prometheus & Grafana Monitoring Playground 🔭
 
-## 🌟 Repository Overview
-
-**Repository Name:** `devops-sentinel-prometheus-monitoring`
+![Prometheus and Grafana preview image](Assets/preview_image.png)
 
 ### 📦 Project Modules
 
