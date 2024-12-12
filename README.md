@@ -101,5 +101,9 @@ MIT License 🆓
 - Regularly update exporters and monitoring tools
 - Monitor your monitoring system! 🕵️‍♂️
 
+### Connect with me
+- Portfolio website: https://abhijit-zende.vercel.app/
+- Blogpost: https://abhijitzende.hashnode.dev/
+
 ### 🚨 Disclaimer
 Configuration might vary based on your specific infrastructure. Always test in a staging environment first! 🧪
